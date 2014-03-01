@@ -1,0 +1,62 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Sat Jan 11 15:26:46 2014
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("markdown" "auto" "gdb" "session" "yasnippet"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/qt/main_win/" "/home/kevin/qt/exam_quit/quit.cpp" "/home/kevin/qt/hello_qt/hello_qt.cpp" "/home/kevin/qt/slider.cpp" "/home/kevin/qt/main_win/main_widget.cpp" "/home/kevin/.config/awesome/rc.lua" "/home/kevin/qt/find_dialog/finddialog.cpp" "~/.emacs.d/vendor/auto-complete-yasnippet.el" "~/.emacs.d/savefile/bookmarks" "/home/kevin/qt/find_dialog/finddialog.h" "/home/kevin/qt/slider/slider.cpp" "/home/kevin/blog/source/_posts/thinkpad.md" "~/tpacpi-bat-master/tpacpi-bat" "/tmp/yaourt-tmp-kevin/aur-thinkfan/thinkfan.install" "/tmp/yaourt-tmp-kevin/aur-acpi_call-git/PKGBUILD" "/home/kevin/.config/awesome/themes/multicolor/theme.lua" "/home/kevin/qt/slider.cpp" "/home/kevin/.emacs.d/vendor/auto-complete-yasnippet.el" "~/.emacs.d/personal/personal.el" "/home/kevin/qt/exam_quit/quit.cpp" "/home/kevin/qt/hello_qt.cpp" "/home/kevin/.qt/hello.cpp" "/home/kevin/python/img_proc.py" "/home/kevin/blog/themes/light/layout/_partial/header.ejs" "/home/kevin/blog/_config.yml" "/home/kevin/blog/themes/light/_config.yml" "/home/kevin/blog/themes/chenall/_config.yml" "/home/kevin/blog/themes/ios7/_config.yml" "/home/kevin/blog/themes/pacman/_config.yml" "/home/kevin/blog/source/_posts/python-self.md"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/home/kevin/qt/main_win/main_widget.cpp"
+  "main_widget.cpp"
+  'c++-mode
+  '(abbrev-mode prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode flx-ido-mode flycheck-mode autopair-mode linum-mode auto-complete-mode yas-minor-mode)
+  311
+  '(312 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/home/kevin/qt/exam_quit/quit.cpp"
+  "quit.cpp"
+  'c++-mode
+  '(abbrev-mode prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode flx-ido-mode flycheck-mode autopair-mode linum-mode auto-complete-mode yas-minor-mode)
+  113
+  '(112 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
+(desktop-create-buffer 206
+  "/home/kevin/qt/hello_qt/hello_qt.cpp"
+  "hello_qt.cpp"
+  'c++-mode
+  '(abbrev-mode prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode flx-ido-mode flycheck-mode autopair-mode linum-mode auto-complete-mode yas-minor-mode)
+  79
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/home/kevin/qt/slider.cpp"
+  "slider.cpp"
+  'c++-mode
+  '(abbrev-mode prelude-mode global-auto-revert-mode volatile-highlights-mode projectile-mode anzu-mode undo-tree-mode flx-ido-mode flycheck-mode autopair-mode linum-mode auto-complete-mode yas-minor-mode)
+  729
+  '(586 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode)))
+
